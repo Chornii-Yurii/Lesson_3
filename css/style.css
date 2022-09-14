@@ -1,0 +1,32 @@
+.class-case{
+	color: red;
+}
+.class-motherboard{
+	color: orange;
+}
+.class-processor{
+	color: yellow;
+}
+.class-processor{
+	color: green;
+}
+.class-ram{
+	color: cyan;
+}
+.class-hard{
+	color: blue;
+}
+
+.class-ssd{
+	color: chartreuse;
+}
+
+.class-hdd{
+	color: cornflowerblue;
+}
+.class-video{
+	color: yellow;
+}
+.class-power{
+	color: deepskyblue;
+}
